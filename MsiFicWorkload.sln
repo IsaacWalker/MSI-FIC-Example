@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MsiFicWorkload", "MsiFicWorkload\MsiFicWorkload.csproj", "{9EC5349C-0F41-4190-A03D-67DDDA1C933C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EC5349C-0F41-4190-A03D-67DDDA1C933C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EC5349C-0F41-4190-A03D-67DDDA1C933C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EC5349C-0F41-4190-A03D-67DDDA1C933C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EC5349C-0F41-4190-A03D-67DDDA1C933C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C77ADB92-5C30-41AC-AA5E-764AD5F18EF4}
+	EndGlobalSection
+EndGlobal
